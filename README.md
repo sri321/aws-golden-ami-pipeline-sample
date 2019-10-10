@@ -1,3 +1,6 @@
+
+##
+
 ## Golden AMI Pipeline
 
 This repo contains resources for building a Golden AMI Pipeline with AWS Marketplace, AWS Systems Manager, Amazon Inspector, AWS Config, and AWS Service Catalog.
